@@ -1,2 +1,2 @@
 :before { content: '\41\50\52\49\4C\20\46\4F\4F\4C\53\20\F4\BF\F4'; }
-body {background-image: 'https://i.kym-cdn.com/entries/icons/original/000/000/091/TrollFace.jpg';}
+body {background-image: url('https://i.kym-cdn.com/entries/icons/original/000/000/091/TrollFace.jpg');}
